@@ -14,7 +14,7 @@ import DOMSnapshot from './assets/Extension Icon (7).png';
 import ConsolePlus from './assets/Extension Icon (8).png';
 export default function ExtensionList() {
     return (
-        <div className="container w-full max-[w-1170px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 mt-16 ">
+        <div className="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 mt-16 ">
             <div className="col-span-1 md:col-span-2 lg:col-span-3 flex flex-wrap items-center justify-center md:justify-between lg:justify-between mb-9 gap-6">
                 <p className="text-[#091540] font-(family-name:--second-font) text-4xl font-bold">Extensions List</p>
                 <div className="flex items-center gap-3">
