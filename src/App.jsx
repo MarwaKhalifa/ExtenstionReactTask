@@ -1,7 +1,7 @@
 
 import "@fontsource/geologica";
 import "@fontsource/geologica/700.css";
-import Header from './header.jsx'
+import Header from './Header.jsx'
 import ExtensionList from './extensionList.jsx'
 export default function App() {
   return (
